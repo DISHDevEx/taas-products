@@ -1,0 +1,5 @@
+python
+pandas
+pyspark
+boto3
+
