@@ -1,5 +1,16 @@
+# awsglue.utils
+# pyspark.context
+# awsglue.transforms
+# awsglue.dynamicframe
+# awsglue.job
+awsglue
+
+
+
 python
 pandas
+numpy
 pyspark
 boto3
-
+botocore
+jira
