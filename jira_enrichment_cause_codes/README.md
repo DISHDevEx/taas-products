@@ -1,2 +1,2 @@
-- append_cause_codes.py - this was written by MSS
-- get_cause_code_info.py - this was written by AWS Proserv. They took MSS code and rewrote it.
+- append_cause_codes.py: This was written by MSS
+- get_cause_code_info.py: This was written by AWS Proserv. They took MSS code and rewrote it.
