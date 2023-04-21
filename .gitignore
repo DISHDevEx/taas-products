@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+auto_severity_assignment/.DS_Store
+auto_severity_assignment/images/.DS_Store
